@@ -19,6 +19,12 @@ export const metadata: Metadata = {
     title: "Derek Ensign | Full-Stack Web Developer",
     description: "I build custom web apps, dashboards, and data tools. Based in Austin, TX.",
     type: "website",
+    url: "https://derekensign.com",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Derek Ensign | Full-Stack Web Developer",
+    description: "I build custom web apps, dashboards, and data tools. Based in Austin, TX.",
   },
 };
 
