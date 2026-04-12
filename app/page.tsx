@@ -288,13 +288,6 @@ export default function Home() {
               </p>
               <div className="flex flex-col gap-3 text-sm text-muted">
                 <a
-                  href="mailto:derek@derekensign.com"
-                  className="inline-flex items-center gap-2 hover:text-foreground transition-colors"
-                >
-                  <Mail className="h-4 w-4 text-accent" />
-                  derek@derekensign.com
-                </a>
-                <a
                   href="https://linkedin.com/in/derekensign"
                   target="_blank"
                   rel="noopener noreferrer"
