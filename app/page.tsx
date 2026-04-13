@@ -118,7 +118,7 @@ export default function Home() {
           >
             <p className="text-accent text-sm font-mono mb-4">Hi, I&apos;m Derek.</p>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-tight mb-6">
-              I help turn ideas into useful<br />
+              I help turn <span className="shimmer-text">ideas</span> into useful<br />
               <span className="gradient-text">digital products.</span>
             </h1>
             <p className="text-muted text-lg md:text-xl max-w-2xl mb-8 leading-relaxed">
