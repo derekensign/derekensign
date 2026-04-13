@@ -118,12 +118,13 @@ export default function Home() {
           >
             <p className="text-accent text-sm font-mono mb-4">Hi, I&apos;m Derek.</p>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-tight mb-6">
-              I build <span className="gradient-text">web apps</span> that<br />
-              turn ideas into products.
+              I help turn ideas into useful<br />
+              <span className="gradient-text">digital products.</span>
             </h1>
             <p className="text-muted text-lg md:text-xl max-w-2xl mb-8 leading-relaxed">
-              Full-stack developer based in Austin, TX. I help businesses and startups
-              ship custom web applications, dashboards, and AI-powered tools.
+              I&apos;m a full-stack developer based in Austin, Texas, working with businesses
+              and startups to create thoughtful, custom tools and web experiences that
+              solve real problems for the people using them.
             </p>
             <div className="flex items-center gap-4">
               <a
